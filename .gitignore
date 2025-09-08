@@ -1,38 +1,38 @@
-# Compiled C++ binaries
-*.exe
-*.out
-*.o
+# # Compiled C++ binaries
+# *.exe
+# *.out
+# *.o
 
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+# # Python cache
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.pyd
 
-# Virtual environments
-venv/
-env/
-.venv/
-ENV/
+# # Virtual environments
+# venv/
+# env/
+# .venv/
+# ENV/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+# # Jupyter Notebook checkpoints
+# .ipynb_checkpoints/
 
-# VS Code settings
-.vscode/
+# # VS Code settings
+# .vscode/
 
-# macOS system files
-.DS_Store
+# # macOS system files
+# .DS_Store
 
-# Windows system files
-Thumbs.db
-desktop.ini
+# # Windows system files
+# Thumbs.db
+# desktop.ini
 
-# Logs
-*.log
+# # Logs
+# *.log
 
-# for copy
-copy.txt
+# # for copy
+# copy.txt
 
-# for graph
-# graph.png
+# # for graph
+# # graph.png
