@@ -48,4 +48,7 @@ Ensure you have the following installed:
 
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
+
+    # Install ydata-profiling
+%pip install -U ydata-profiling
 ```
